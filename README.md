@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pilathraj
 - 👀 I’m interested in Python, Golang, AWS, PHP, Reactjs
-- 🌱 I’m currently learning software architecture design
+- 🌱 I’m currently learning software architecture design and blockchain
 - 💞️ I’m looking to collaborate on Full stack Development
 - 📫 How to reach me pilathraj@gmail.com
 - 🌱 Currently working as a Full Stack Developer,
